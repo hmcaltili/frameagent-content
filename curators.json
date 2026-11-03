@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-01",
+ "updated": "2026-11-03",
  "notes": {
   "p6": {
    "handle": "@anillbayazit",
@@ -74,6 +74,43 @@
     "ja": "この絵は、自由と憧れ、そしてはかない幸せを感じさせます。恋の中にあっても自分だけの世界をつくり、大胆に、気ままに生きること。すべては移ろうと知りながら、その一瞬の美しさに身をゆだねること……",
     "ko": "이 그림은 자유와 갈망, 그리고 덧없는 행복을 느끼게 합니다. 사랑 속에서도 나만의 세계를 만들고, 삶을 대담하고 근심 없이 살아가는 것. 모든 것이 지나간다는 것을 알면서도 그 순간의 아름다움에 빠져드는 것...",
     "ar": "تُشعرنا هذه اللوحة بالحرية والرغبة والسعادة العابرة. أن تصنع عالمك الخاص حتى في الحب، وأن تعيش الحياة بجرأة ودون هموم؛ وأن تدرك أن كل شيء زائل، فتنجرف مع جمال اللحظة..."
+   }
+  },
+  "p59": {
+   "handle": "@nefertitisanat",
+   "name": "Şira Dam",
+   "init": "ŞD",
+   "url": "https://www.instagram.com/nefertitisanat/",
+   "photo": "curators/sira.jpg",
+   "role": {
+    "tr": "Sanat Tarihçisi Şira Dam",
+    "en": "Art Historian Şira Dam",
+    "ru": "Историк искусства Шира Дам",
+    "de": "Kunsthistorikerin Şira Dam",
+    "fr": "Historienne de l'art Şira Dam",
+    "es": "Historiadora del arte Şira Dam",
+    "it": "Storica dell'arte Şira Dam",
+    "pt": "Historiadora da arte Şira Dam",
+    "nl": "Kunsthistoricus Şira Dam",
+    "pl": "Historyczka sztuki Şira Dam",
+    "ja": "美術史家 シラ・ダム",
+    "ko": "미술사학자 시라 담",
+    "ar": "مؤرخة الفن شيرا دام"
+   },
+   "text": {
+    "tr": "Ellere bak. Platon parmağıyla göğü, Aristoteles avucuyla yeri gösteriyor: biri fikirlerde, öteki bu dünyada arıyor gerçeği. Rafael bu iki eli tam ortaya koymuş ama bir cevap vermiyor; resmin kendisi bir soru oluyor.",
+    "en": "Look at the hands. Plato points to the sky with his finger, Aristotle to the earth with his palm: one seeks the truth in ideas, the other in this world. Raphael placed these two hands right at the centre, yet he gives no answer; the painting itself becomes a question.",
+    "ru": "Посмотрите на руки. Платон указывает пальцем в небо, Аристотель ладонью — на землю: один ищет истину в идеях, другой — в этом мире. Рафаэль поместил эти две руки в самый центр, но не даёт ответа; сама картина становится вопросом.",
+    "de": "Achte auf die Hände. Platon zeigt mit dem Finger zum Himmel, Aristoteles mit der Handfläche zur Erde: Der eine sucht die Wahrheit in den Ideen, der andere in dieser Welt. Raffael setzt diese beiden Hände genau in die Mitte, gibt aber keine Antwort; das Bild selbst wird zur Frage.",
+    "fr": "Regardez les mains. Platon montre le ciel du doigt, Aristote désigne la terre de sa paume : l'un cherche la vérité dans les idées, l'autre dans ce monde. Raphaël place ces deux mains au centre exact, mais ne donne aucune réponse ; le tableau lui-même devient une question.",
+    "es": "Mira las manos. Platón señala el cielo con el dedo; Aristóteles, la tierra con la palma: uno busca la verdad en las ideas, el otro en este mundo. Rafael colocó esas dos manos justo en el centro, pero no da ninguna respuesta; el cuadro mismo se convierte en una pregunta.",
+    "it": "Guarda le mani. Platone indica il cielo con il dito, Aristotele la terra con il palmo: uno cerca la verità nelle idee, l'altro in questo mondo. Raffaello mette queste due mani proprio al centro, ma non dà una risposta; il dipinto stesso diventa una domanda.",
+    "pt": "Olhe para as mãos. Platão aponta o céu com o dedo; Aristóteles, a terra com a palma da mão: um busca a verdade nas ideias, o outro neste mundo. Rafael colocou essas duas mãos bem no centro, mas não dá resposta; a própria pintura se torna uma pergunta.",
+    "nl": "Kijk naar de handen. Plato wijst met zijn vinger naar de hemel, Aristoteles met zijn handpalm naar de aarde: de een zoekt de waarheid in ideeën, de ander in deze wereld. Rafaël zet die twee handen precies in het midden, maar geeft geen antwoord; het schilderij zelf wordt een vraag.",
+    "pl": "Spójrz na dłonie. Platon wskazuje palcem niebo, Arystoteles dłonią ziemię: jeden szuka prawdy w ideach, drugi w tym świecie. Rafael umieścił te dwie dłonie w samym środku, ale nie daje odpowiedzi; sam obraz staje się pytaniem.",
+    "ja": "手を見てください。プラトンは指で天を、アリストテレスは手のひらで地を指しています。ひとりは観念の中に、もうひとりはこの世界に真理を探しているのです。ラファエロはこの二つの手を画面の中央に置きながら、答えを示しません。絵そのものがひとつの問いになっています。",
+    "ko": "손을 보세요. 플라톤은 손가락으로 하늘을, 아리스토텔레스는 손바닥으로 땅을 가리킵니다. 한 사람은 이데아에서, 다른 한 사람은 이 세상에서 진리를 찾습니다. 라파엘로는 이 두 손을 정중앙에 두었지만 답을 주지 않습니다. 그림 자체가 하나의 질문이 됩니다.",
+    "ar": "انظر إلى اليدين. يشير أفلاطون بإصبعه إلى السماء، ويشير أرسطو بكفّه إلى الأرض: أحدهما يبحث عن الحقيقة في الأفكار، والآخر في هذا العالم. وضع رافائيل هاتين اليدين في المركز تمامًا، لكنه لا يقدّم جوابًا؛ فتصبح اللوحة نفسها سؤالًا."
    }
   }
  }
