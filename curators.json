@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-03",
+ "updated": "2026-11-08",
  "notes": {
   "p6": {
    "handle": "@anillbayazit",
@@ -111,6 +111,43 @@
     "ja": "手を見てください。プラトンは指で天を、アリストテレスは手のひらで地を指しています。ひとりは観念の中に、もうひとりはこの世界に真理を探しているのです。ラファエロはこの二つの手を画面の中央に置きながら、答えを示しません。絵そのものがひとつの問いになっています。",
     "ko": "손을 보세요. 플라톤은 손가락으로 하늘을, 아리스토텔레스는 손바닥으로 땅을 가리킵니다. 한 사람은 이데아에서, 다른 한 사람은 이 세상에서 진리를 찾습니다. 라파엘로는 이 두 손을 정중앙에 두었지만 답을 주지 않습니다. 그림 자체가 하나의 질문이 됩니다.",
     "ar": "انظر إلى اليدين. يشير أفلاطون بإصبعه إلى السماء، ويشير أرسطو بكفّه إلى الأرض: أحدهما يبحث عن الحقيقة في الأفكار، والآخر في هذا العالم. وضع رافائيل هاتين اليدين في المركز تمامًا، لكنه لا يقدّم جوابًا؛ فتصبح اللوحة نفسها سؤالًا."
+   }
+  },
+  "p21": {
+   "handle": "@kagansagdicart",
+   "name": "Kağan Sağdiç",
+   "init": "KS",
+   "url": "https://www.instagram.com/kagansagdicart/",
+   "photo": "",
+   "role": {
+    "tr": "Sanat Eleştirmeni",
+    "en": "Art Critic",
+    "ru": "Арт-критик",
+    "de": "Kunstkritiker",
+    "fr": "Critique d'art",
+    "es": "Crítico de arte",
+    "it": "Critico d'arte",
+    "pt": "Crítico de arte",
+    "nl": "Kunstcriticus",
+    "pl": "Krytyk sztuki",
+    "ja": "美術評論家",
+    "ko": "미술 평론가",
+    "ar": "ناقد فني"
+   },
+   "text": {
+    "tr": "Yüzyıllardır neye güldüğünü çözemedik ama muhtemelen bizim hâlâ çözemediğimiz problemleri asırlar önce öngördün. O hafif tebessümün arkasında 'Ben bunları çoktan çözdüm, siz takılın' edası var. Leonardo da Vinci resmen 500 yıl öteden bize bıyık altından gülüyor.",
+    "en": "For centuries we haven't figured out what you're smiling at, but you probably foresaw, centuries ago, the problems we still can't solve. Behind that faint smile there's an air of 'I solved all this long ago, you carry on.' Leonardo da Vinci is literally smirking at us from 500 years away.",
+    "ru": "Веками мы не можем понять, чему ты улыбаешься, но ты, наверное, ещё столетия назад предвидела проблемы, которые мы до сих пор не можем решить. За этой лёгкой улыбкой читается: «Я всё это давно решила, а вы развлекайтесь». Леонардо да Винчи буквально посмеивается над нами в усы спустя 500 лет.",
+    "de": "Seit Jahrhunderten rätseln wir, worüber du lächelst – aber wahrscheinlich hast du schon vor Jahrhunderten die Probleme vorausgesehen, die wir bis heute nicht lösen. Hinter diesem leisen Lächeln steckt ein „Das habe ich längst gelöst, macht ihr nur.“ Leonardo da Vinci grinst uns buchstäblich aus 500 Jahren Entfernung verschmitzt an.",
+    "fr": "Depuis des siècles, on ne sait toujours pas pourquoi tu souris, mais tu avais sans doute prévu, il y a des siècles, les problèmes que nous n'arrivons toujours pas à résoudre. Derrière ce léger sourire, il y a un air de « J'ai réglé tout ça depuis longtemps, amusez-vous bien ». Léonard de Vinci se moque littéralement de nous en coin, à 500 ans de distance.",
+    "es": "Llevamos siglos sin descifrar de qué sonríes, pero seguramente previste hace siglos los problemas que aún no sabemos resolver. Detrás de esa leve sonrisa hay un aire de «Yo ya resolví todo esto hace tiempo, ustedes sigan». Leonardo da Vinci, literalmente, se ríe de nosotros por lo bajo desde 500 años de distancia.",
+    "it": "Da secoli non capiamo di cosa sorridi, ma probabilmente avevi previsto secoli fa i problemi che ancora non riusciamo a risolvere. Dietro quel lieve sorriso c'è un'aria da «Io queste cose le ho risolte da un pezzo, voi fate pure». Leonardo da Vinci ci sta letteralmente ridendo sotto i baffi da 500 anni di distanza.",
+    "pt": "Há séculos não descobrimos do que você está sorrindo, mas provavelmente você previu, séculos atrás, os problemas que ainda não conseguimos resolver. Por trás desse sorriso discreto há um ar de 'Eu já resolvi tudo isso há muito tempo, podem continuar'. Leonardo da Vinci está literalmente rindo da gente com o canto da boca, a 500 anos de distância.",
+    "nl": "Al eeuwenlang weten we niet waarom je glimlacht, maar waarschijnlijk zag je eeuwen geleden al de problemen aankomen die wij nog steeds niet kunnen oplossen. Achter die flauwe glimlach schuilt een houding van 'Dit heb ik allang opgelost, gaan jullie maar door.' Leonardo da Vinci lacht ons letterlijk in zijn vuistje uit, van 500 jaar afstand.",
+    "pl": "Od wieków nie możemy rozgryźć, z czego się uśmiechasz, ale pewnie już wieki temu przewidziałaś problemy, których wciąż nie umiemy rozwiązać. Za tym delikatnym uśmiechem kryje się mina w stylu: „Ja to wszystko dawno rozwiązałam, a wy się męczcie”. Leonardo da Vinci dosłownie śmieje się z nas pod nosem sprzed 500 lat.",
+    "ja": "何世紀ものあいだ、あなたが何に微笑んでいるのか誰にもわかりません。でもきっと、私たちが今も解けない問題を、あなたは何百年も前に見抜いていたのでしょう。そのかすかな微笑みの奥には「そんなのとっくに解決済み。まあ頑張って」という余裕が漂っています。レオナルド・ダ・ヴィンチは、500年の時を越えて、文字どおり私たちをひそかに笑っているのです。",
+    "ko": "수백 년 동안 우리는 당신이 무엇에 미소 짓는지 알아내지 못했어요. 하지만 당신은 아마 우리가 아직도 풀지 못한 문제들을 수백 년 전에 이미 내다봤을 거예요. 그 은은한 미소 뒤에는 '난 그거 진작에 다 풀었어, 너희는 계속 해 봐'라는 여유가 있어요. 레오나르도 다 빈치는 말 그대로 500년 너머에서 우리를 보며 몰래 웃고 있습니다.",
+    "ar": "منذ قرون ونحن لا نعرف ممّ تبتسمين، لكنكِ على الأرجح توقّعتِ قبل قرون المشكلات التي ما زلنا عاجزين عن حلّها. خلف تلك الابتسامة الخفيفة نبرةٌ تقول: «لقد حللتُ هذا كلّه منذ زمن، أكملوا أنتم». ليوناردو دافنشي يضحك علينا في سرّه حرفيًا من مسافة 500 عام."
    }
   }
  }
