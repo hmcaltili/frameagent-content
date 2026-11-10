@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-08",
+ "updated": "2026-11-10",
  "notes": {
   "p6": {
    "handle": "@anillbayazit",
@@ -148,6 +148,43 @@
     "ja": "何世紀ものあいだ、あなたが何に微笑んでいるのか誰にもわかりません。でもきっと、私たちが今も解けない問題を、あなたは何百年も前に見抜いていたのでしょう。そのかすかな微笑みの奥には「そんなのとっくに解決済み。まあ頑張って」という余裕が漂っています。レオナルド・ダ・ヴィンチは、500年の時を越えて、文字どおり私たちをひそかに笑っているのです。",
     "ko": "수백 년 동안 우리는 당신이 무엇에 미소 짓는지 알아내지 못했어요. 하지만 당신은 아마 우리가 아직도 풀지 못한 문제들을 수백 년 전에 이미 내다봤을 거예요. 그 은은한 미소 뒤에는 '난 그거 진작에 다 풀었어, 너희는 계속 해 봐'라는 여유가 있어요. 레오나르도 다 빈치는 말 그대로 500년 너머에서 우리를 보며 몰래 웃고 있습니다.",
     "ar": "منذ قرون ونحن لا نعرف ممّ تبتسمين، لكنكِ على الأرجح توقّعتِ قبل قرون المشكلات التي ما زلنا عاجزين عن حلّها. خلف تلك الابتسامة الخفيفة نبرةٌ تقول: «لقد حللتُ هذا كلّه منذ زمن، أكملوا أنتم». ليوناردو دافنشي يضحك علينا في سرّه حرفيًا من مسافة 500 عام."
+   }
+  },
+  "p14": {
+   "handle": "@voxartistica",
+   "name": "Vox Artistica",
+   "init": "VA",
+   "url": "https://www.instagram.com/voxartistica/",
+   "photo": "curators/voxartistica.jpg",
+   "role": {
+    "tr": "Kültür Sanat Platformu",
+    "en": "Culture & Arts Platform",
+    "ru": "Платформа культуры и искусства",
+    "de": "Kultur- und Kunstplattform",
+    "fr": "Plateforme culture et arts",
+    "es": "Plataforma de cultura y arte",
+    "it": "Piattaforma di cultura e arte",
+    "pt": "Plataforma de cultura e arte",
+    "nl": "Cultuur- en kunstplatform",
+    "pl": "Platforma kultury i sztuki",
+    "ja": "文化・芸術プラットフォーム",
+    "ko": "문화예술 플랫폼",
+    "ar": "منصة ثقافية وفنية"
+   },
+   "text": {
+    "tr": "Baharın gelişini anlatan, 500’den fazla bitki türünün resmedildiği Primavera, bu yönüyle Rönesans dönemindeki doğaya saygıyı ve botaniğe verilen önemi yansıtır. Tempera tekniğinin kullanıldığı öngörülen eser, pagan mitolojisinden esinlenmiştir ve neoplatonizm izleri de taşır.",
+    "en": "Depicting the arrival of spring with more than 500 plant species, Primavera reflects the Renaissance’s respect for nature and the importance it gave to botany. Thought to have been painted in tempera, the work draws on pagan mythology and also carries traces of Neoplatonism.",
+    "ru": "«Весна», изображающая приход весны и более 500 видов растений, отражает уважение эпохи Возрождения к природе и значение, которое придавалось ботанике. Работа, предположительно написанная темперой, вдохновлена языческой мифологией и несёт в себе следы неоплатонизма.",
+    "de": "Die Primavera schildert die Ankunft des Frühlings mit mehr als 500 Pflanzenarten und spiegelt so den Respekt der Renaissance vor der Natur und die Bedeutung der Botanik wider. Das vermutlich in Tempera gemalte Werk ist von der heidnischen Mythologie inspiriert und trägt zudem Spuren des Neuplatonismus.",
+    "fr": "Le Printemps, qui raconte l’arrivée de la belle saison à travers plus de 500 espèces de plantes, reflète le respect de la Renaissance pour la nature et l’importance accordée à la botanique. Probablement peinte à la tempera, l’œuvre s’inspire de la mythologie païenne et porte aussi l’empreinte du néoplatonisme.",
+    "es": "La Primavera, que narra la llegada de la estación con más de 500 especies de plantas, refleja el respeto del Renacimiento por la naturaleza y la importancia que se daba a la botánica. Se cree que fue pintada al temple; la obra se inspira en la mitología pagana y también lleva huellas del neoplatonismo.",
+    "it": "La Primavera, che racconta l’arrivo della bella stagione con oltre 500 specie di piante, riflette il rispetto del Rinascimento per la natura e l’importanza attribuita alla botanica. Probabilmente dipinta a tempera, l’opera si ispira alla mitologia pagana e porta anche tracce di neoplatonismo.",
+    "pt": "A Primavera, que retrata a chegada da estação com mais de 500 espécies de plantas, reflete o respeito do Renascimento pela natureza e a importância dada à botânica. Acredita-se que tenha sido pintada a têmpera; a obra inspira-se na mitologia pagã e carrega também traços do neoplatonismo.",
+    "nl": "De Primavera, die de komst van de lente verbeeldt met meer dan 500 plantensoorten, weerspiegelt het respect van de renaissance voor de natuur en het belang dat aan plantkunde werd gehecht. Het werk, vermoedelijk in tempera geschilderd, is geïnspireerd op de heidense mythologie en draagt ook sporen van het neoplatonisme.",
+    "pl": "Wiosna, przedstawiająca nadejście wiosny i ponad 500 gatunków roślin, odzwierciedla renesansowy szacunek dla natury i wagę, jaką przykładano do botaniki. Dzieło, prawdopodobnie namalowane temperą, czerpie z mitologii pogańskiej i nosi również ślady neoplatonizmu.",
+    "ja": "春の訪れを描き、500種以上の植物が描き込まれた《プリマヴェーラ》は、ルネサンス期の自然への敬意と植物学への関心を映し出しています。テンペラで描かれたと考えられるこの作品は、異教の神話に着想を得ており、新プラトン主義の影響も見られます。",
+    "ko": "봄의 도래를 그리며 500종이 넘는 식물을 담아낸 〈프리마베라〉는 르네상스 시대의 자연에 대한 존중과 식물학에 대한 관심을 보여 줍니다. 템페라로 그려진 것으로 추정되는 이 작품은 이교 신화에서 영감을 받았으며 신플라톤주의의 흔적도 담고 있습니다.",
+    "ar": "تصوّر لوحة «الربيع» قدوم فصل الربيع بأكثر من 500 نوع من النباتات، فتعكس احترام عصر النهضة للطبيعة والأهمية التي أُوليت لعلم النبات. ويُعتقد أنها رُسمت بتقنية التمبرا، وهي مستوحاة من الأساطير الوثنية وتحمل كذلك آثار الأفلاطونية المحدثة."
    }
   }
  }
