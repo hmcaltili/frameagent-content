@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-10",
+ "updated": "2026-11-27",
  "notes": {
   "p6": {
    "handle": "@anillbayazit",
@@ -185,6 +185,43 @@
     "ja": "春の訪れを描き、500種以上の植物が描き込まれた《プリマヴェーラ》は、ルネサンス期の自然への敬意と植物学への関心を映し出しています。テンペラで描かれたと考えられるこの作品は、異教の神話に着想を得ており、新プラトン主義の影響も見られます。",
     "ko": "봄의 도래를 그리며 500종이 넘는 식물을 담아낸 〈프리마베라〉는 르네상스 시대의 자연에 대한 존중과 식물학에 대한 관심을 보여 줍니다. 템페라로 그려진 것으로 추정되는 이 작품은 이교 신화에서 영감을 받았으며 신플라톤주의의 흔적도 담고 있습니다.",
     "ar": "تصوّر لوحة «الربيع» قدوم فصل الربيع بأكثر من 500 نوع من النباتات، فتعكس احترام عصر النهضة للطبيعة والأهمية التي أُوليت لعلم النبات. ويُعتقد أنها رُسمت بتقنية التمبرا، وهي مستوحاة من الأساطير الوثنية وتحمل كذلك آثار الأفلاطونية المحدثة."
+   }
+  },
+  "p75": {
+   "handle": "@aydanezgiunal",
+   "name": "Aydan Ezgi Ünal Tapanyiğit",
+   "init": "AÜ",
+   "url": "https://www.instagram.com/aydanezgiunal/",
+   "photo": "curators/aydan.jpg",
+   "role": {
+    "tr": "Görsel Sanatçı ve İllüstratör",
+    "en": "Visual Artist & Illustrator",
+    "ru": "Художница и иллюстратор",
+    "de": "Bildende Künstlerin & Illustratorin",
+    "fr": "Artiste visuelle et illustratrice",
+    "es": "Artista visual e ilustradora",
+    "it": "Artista visiva e illustratrice",
+    "pt": "Artista visual e ilustradora",
+    "nl": "Beeldend kunstenaar & illustrator",
+    "pl": "Artystka wizualna i ilustratorka",
+    "ja": "ビジュアルアーティスト／イラストレーター",
+    "ko": "비주얼 아티스트 & 일러스트레이터",
+    "ar": "فنانة بصرية ورسّامة"
+   },
+   "text": {
+    "tr": "Bruegel’in 1560 yılında resmettiği bu dünyada beni en çok etkileyen şey, çocukların oyuncaklarından çok hayal güçleriyle oynamaları. Sıradan bir sokak, bir duvar ya da tahta parçası, onların elinde bambaşka bir anlam kazanıyor. Belki de sanatçı olmak, çocukken sahip olduğumuz bu bakış biçimini kaybetmemektir. Bruegel’in tablosuna bakarken insan ister istemez merak ediyor: Büyüdükçe dünyayı daha iyi tanımaya mı başlıyoruz, yoksa onun ihtimallerini daha az mı görüyoruz?",
+    "en": "What moves me most in the world Bruegel painted in 1560 is that the children play less with their toys than with their imagination. An ordinary street, a wall or a piece of wood takes on a whole new meaning in their hands. Perhaps being an artist means not losing the way of seeing we had as children. Looking at Bruegel’s painting, you can’t help but wonder: as we grow up, do we come to know the world better, or do we simply see fewer of its possibilities?",
+    "ru": "Больше всего в мире, который Брейгель написал в 1560 году, меня трогает то, что дети играют не столько игрушками, сколько своим воображением. Обычная улица, стена или кусок дерева в их руках обретают совсем иной смысл. Возможно, быть художником — значит не терять тот взгляд, который был у нас в детстве. Глядя на картину Брейгеля, невольно задаёшься вопросом: взрослея, мы начинаем лучше понимать мир или просто видим в нём всё меньше возможностей?",
+    "de": "Was mich an der Welt, die Bruegel 1560 gemalt hat, am meisten berührt: Die Kinder spielen weniger mit ihrem Spielzeug als mit ihrer Fantasie. Eine gewöhnliche Straße, eine Mauer oder ein Stück Holz bekommt in ihren Händen eine ganz neue Bedeutung. Vielleicht heißt Künstler sein, diesen Blick aus der Kindheit nicht zu verlieren. Vor Bruegels Bild fragt man sich unweigerlich: Lernen wir die Welt besser kennen, je älter wir werden – oder sehen wir einfach weniger von ihren Möglichkeiten?",
+    "fr": "Ce qui me touche le plus dans ce monde peint par Bruegel en 1560, c’est que les enfants jouent moins avec leurs jouets qu’avec leur imagination. Une rue ordinaire, un mur ou un morceau de bois prennent entre leurs mains un tout autre sens. Être artiste, c’est peut-être ne pas perdre ce regard que nous avions enfants. Devant le tableau de Bruegel, on ne peut s’empêcher de se demander : en grandissant, apprenons-nous à mieux connaître le monde, ou voyons-nous simplement moins ses possibles ?",
+    "es": "Lo que más me conmueve de este mundo que Bruegel pintó en 1560 es que los niños juegan menos con sus juguetes que con su imaginación. Una calle cualquiera, un muro o un trozo de madera adquieren en sus manos un sentido completamente distinto. Quizá ser artista sea no perder esa forma de mirar que teníamos de niños. Al contemplar el cuadro de Bruegel, uno no puede evitar preguntarse: al crecer, ¿conocemos mejor el mundo o simplemente vemos menos sus posibilidades?",
+    "it": "Ciò che più mi colpisce di questo mondo dipinto da Bruegel nel 1560 è che i bambini giocano più con la fantasia che con i giocattoli. Una strada qualunque, un muro o un pezzo di legno, nelle loro mani, acquistano un significato del tutto nuovo. Forse essere artisti significa non perdere quello sguardo che avevamo da bambini. Guardando il quadro di Bruegel viene spontaneo chiedersi: crescendo impariamo a conoscere meglio il mondo, o semplicemente ne vediamo meno le possibilità?",
+    "pt": "O que mais me toca neste mundo pintado por Bruegel em 1560 é que as crianças brincam menos com os brinquedos do que com a imaginação. Uma rua qualquer, um muro ou um pedaço de madeira ganham, nas mãos delas, um sentido completamente diferente. Talvez ser artista seja não perder esse jeito de olhar que tínhamos quando crianças. Diante do quadro de Bruegel, é impossível não se perguntar: ao crescer, passamos a conhecer melhor o mundo ou apenas enxergamos menos as suas possibilidades?",
+    "nl": "Wat mij het meest raakt in de wereld die Bruegel in 1560 schilderde, is dat de kinderen minder met hun speelgoed spelen dan met hun verbeelding. Een gewone straat, een muur of een stuk hout krijgt in hun handen een heel andere betekenis. Misschien betekent kunstenaar zijn dat je die blik uit je kindertijd niet kwijtraakt. Wie naar Bruegels schilderij kijkt, vraagt zich onwillekeurig af: leren we de wereld beter kennen naarmate we ouder worden, of zien we gewoon minder van haar mogelijkheden?",
+    "pl": "W świecie, który Bruegel namalował w 1560 roku, najbardziej porusza mnie to, że dzieci bawią się nie tyle zabawkami, co wyobraźnią. Zwykła ulica, mur czy kawałek drewna nabierają w ich rękach zupełnie nowego znaczenia. Może bycie artystą polega na tym, by nie stracić spojrzenia, które mieliśmy jako dzieci. Patrząc na obraz Bruegla, mimowolnie zastanawiamy się: czy dorastając, lepiej poznajemy świat, czy po prostu dostrzegamy w nim mniej możliwości?",
+    "ja": "ブリューゲルが1560年に描いたこの世界で私がいちばん心を動かされるのは、子どもたちがおもちゃよりも想像力で遊んでいることです。ありふれた通りも、壁も、木切れも、彼らの手にかかればまったく別の意味を持ちはじめます。アーティストであるということは、子どもの頃に持っていたこのまなざしを失わないことなのかもしれません。ブリューゲルの絵を見ていると、思わず考えてしまいます。大人になるにつれて、私たちは世界をよりよく知っていくのでしょうか。それとも、その可能性を見なくなっていくだけなのでしょうか。",
+    "ko": "브뤼헐이 1560년에 그린 이 세계에서 저를 가장 감동시키는 것은, 아이들이 장난감보다 상상력으로 논다는 점입니다. 평범한 골목, 담벼락, 나무 조각 하나도 아이들의 손에서는 전혀 다른 의미를 얻습니다. 어쩌면 예술가가 된다는 것은 어린 시절의 그 시선을 잃지 않는 것인지도 모릅니다. 브뤼헐의 그림을 보고 있으면 저절로 궁금해집니다. 우리는 자라면서 세상을 더 잘 알게 되는 걸까요, 아니면 그 가능성을 덜 보게 되는 걸까요?",
+    "ar": "أكثر ما يؤثّر فيّ في هذا العالم الذي رسمه بروغل عام 1560 أن الأطفال يلعبون بخيالهم أكثر مما يلعبون بألعابهم. شارع عادي، أو جدار، أو قطعة خشب، تكتسب بين أيديهم معنى مختلفًا تمامًا. ربما يعني أن تكون فنانًا ألّا تفقد طريقة النظر التي كانت لدينا في الطفولة. وحين نتأمل لوحة بروغل، لا يسعنا إلا أن نتساءل: هل نزداد معرفةً بالعالم كلما كبرنا، أم أننا فقط نرى إمكاناته أقل؟"
    }
   }
  }
